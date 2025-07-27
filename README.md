@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 **CSE student** passionate about **Software Engineering, Data Structures & Algorithms (DSA), Network Engineering and Cybersecurity**.
-- 🔐 Exploring **Network Engineering & sumulated lab environments** while building secure, scalable software.
+- 🔐 Exploring **Network Engineering & Simulated Lab Environments** while building secure, scalable software.
 - 💡 Always improving problem-solving skills with **LeetCode** and practicing **Linux** for real-world systems knowledge.
 
 ---
