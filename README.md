@@ -1,4 +1,4 @@
-# Hi there, I'm Rifat Rahman Antor! 👋
+# Hi there, I'm Md. Azraful Alam! 👋
 
 ![Profile Banner](https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=150)
 
