@@ -3,7 +3,7 @@
 ![Profile Banner](https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=150)
 
 ## 🚀 About Me
-- 🎓 **CSE student** passionate about **Software Engineering, Data Structures & Algorithms (DSA), and Cybersecurity**.
+- 🎓 **CSE student** passionate about **Software Engineering, Data Structures & Algorithms (DSA), NEtwork Engineering and Cybersecurity**.
 - 🔐 Exploring **Network Engineering & sumulated lab environments** while building secure, scalable software.
 - 💡 Always improving problem-solving skills with **LeetCode** and practicing **Linux** for real-world systems knowledge.
 
