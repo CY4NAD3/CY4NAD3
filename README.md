@@ -31,7 +31,7 @@ A **Java-based store management application** demonstrating **Object-Oriented Pr
 ---
 
 ## 📊 GitHub Stats
-![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Azraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
 
 ---
 
