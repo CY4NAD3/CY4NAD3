@@ -21,22 +21,22 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_ACTUAL_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/md-azraful-alam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://www.instagram.com/azraf_ul_alam/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+  <a href="https://www.codechef.com/users/cy4nad3">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+  <a href="https://codeforces.com/profile/CY4NAD3">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/CY4NAD3/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:your.real.email@gmail.com">
+  <a href="mailto:alam.azraf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
