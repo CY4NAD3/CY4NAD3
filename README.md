@@ -66,13 +66,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/)  
@@ -82,3 +75,10 @@
 
 > *"Security is not a product, but a process."*  
 > — Bruce Schneier
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-contribution-grid-snake.gif)
+
+---
+
