@@ -69,7 +69,7 @@
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake - Dark Mode](https://raw.githubusercontent.com/CY4NAD3/CY4NAD3/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
