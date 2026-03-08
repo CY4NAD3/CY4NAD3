@@ -70,7 +70,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/CY4NAD3/CY4NAD3/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/CY4NAD3/CY4NAD3/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
