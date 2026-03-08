@@ -19,22 +19,49 @@
 ---
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-Send-green?logo=gmail)](mailto:your.email@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_ACTUAL_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:your.real.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 ## 🛠 Skills & Tools
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-682876?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <!-- Add more as needed -->
+</p>
 
 ### Technologies & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ### Focus Areas
 <p align="center">
