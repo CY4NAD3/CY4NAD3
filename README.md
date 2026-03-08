@@ -86,8 +86,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CY4NAD3&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CY4NAD3&theme=tokyonight&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.zcy.dev/api?username=CY4NAD3&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=CY4NAD3&layout=compact&theme=tokyonight" />
 </p>
 
 ---
