@@ -77,7 +77,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-snake-dark.svg)
 
 ---
 
