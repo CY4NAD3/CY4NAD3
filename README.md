@@ -67,10 +67,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Dark Mode)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CY4NAD3/CY4NAD3/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake - dark" />
+  <img src="https://raw.githubusercontent.com/CY4NAD3/CY4NAD3/output/github-contribution-grid-snake-dark.svg" alt="Dark snake eating my contributions" width="800" />
 </p>
 
 ---
