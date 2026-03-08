@@ -17,7 +17,12 @@
 🔬 Exploring: Linux systems, simulated network labs, problem-solving on LeetCode  
 
 ---
+## 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/)  
+[![Email](https://img.shields.io/badge/Email-Send-green?logo=gmail)](mailto:your.email@example.com)
+
+---
 ## 🛠 Skills & Tools
 
 ### Programming Languages
@@ -66,19 +71,13 @@
 </p>
 
 ---
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-Send-green?logo=gmail)](mailto:your.email@example.com)
-
----
 
 > *"Security is not a product, but a process."*  
 > — Bruce Schneier
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
