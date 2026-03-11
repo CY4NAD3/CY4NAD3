@@ -15,7 +15,7 @@
 🎓 **B.Sc. in Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)**  
 
 💻 Passionate about: Software Engineering, DSA, Network Engineering, Cybersecurity  
-🔬 Exploring: Linux systems, simulated network labs, problem-solving on LeetCode  
+🔬 Exploring: Linux systems, simulated network labs, problem-solving on CodeChef, Codeforces and LeetCode  
 
 ---
 ## 📫 Connect With Me
