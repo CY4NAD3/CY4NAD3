@@ -27,6 +27,9 @@
   <a href="https://www.instagram.com/azraf_ul_alam/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://tryhackme.com/p/CY4NAD3" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  </a>
   <a href="https://www.codechef.com/users/cy4nad3">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
