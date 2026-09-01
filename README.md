@@ -58,13 +58,6 @@ roadmap:      TryHackMe → HackTheBox → OWASP → Bug Bounty → OSCP
 
 <div align="center">
 
-<a href="https://github.com/CY4NAD3/PeerSync_SoftEnjr_Course">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CY4NAD3&repo=PeerSync_SoftEnjr_Course&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/CY4NAD3/Football-Kit-Management-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CY4NAD3&repo=Football-Kit-Management-App&theme=tokyonight&hide_border=true" />
-</a>
-
 </div>
 
 **🖧 PeerSync** — a peer-matching platform connecting students, professors, and researchers for academic collaboration. Started as an AIUB-only swipe-to-match tool (C#/WinForms, 8-table relational schema) and grew into **PeerSync 2.0**, a multi-university platform with a full Agile backlog, Figma prototypes, and Scrum-based sprint delivery.
