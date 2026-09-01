@@ -67,14 +67,18 @@ roadmap:      TryHackMe → HackTheBox → OWASP → Bug Bounty → OSCP
 **⚽ Football Kit Store** — an early Java/Swing OOP project: a store interface for browsing kit, tracking live stock, and confirming orders with a persistent order-history log.
 
 ---
+## 📊 GitHub Stats
+[![wakatime](https://wakatime.com/badge/user/018e9584-7169-4db4-aad5-e38d7dd27d26.svg)](https://wakatime.com/@018e9584-7169-4db4-aad5-e38d7dd27d26)
 
-### 📊 Stats
+<p align="center">
+<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=CY4NAD3&layout=compact&theme=tokyonight" />
+</p>
 
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=CY4NAD3&theme=tokyonight&hide_border=true" height="165"/>
+## 🔥 GitHub Streak
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CY4NAD3&theme=tokyonight"/>
+</p>
 
 ---
 
