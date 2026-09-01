@@ -17,8 +17,6 @@
 
 🔬 Building toward a red-team/pentesting career: TryHackMe → HackTheBox → OWASP → bug bounty → OSCP, alongside CS50, Kali Linux, and hands-on tools like Aircrack-ng, Burp Suite, and nmap
 
-📄 Co-authored a research paper on IoT-based air quality monitoring in Dhaka, accepted at the ICCE conference
-
 ---
 ## 📫 Connect With Me
 
