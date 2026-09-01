@@ -1,129 +1,101 @@
-# Hi there, I'm Md. Azraful Alam 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=150"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md.%20Azraful%20Alam&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Breaking%20things%20to%20understand%20how%20they%20work&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=whoami+%3D+%22CY4NAD3%22;Cybersecurity+%2F+Offensive+Security;AI+%26+Persistent+Memory+Research;Building+one+CTF+at+a+time" />
+
+<p>
+  <a href="https://www.linkedin.com/in/md-azraful-alam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/CY4NAD3"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/CY4NAD3"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/CY4NAD3/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/cy4nad3"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.instagram.com/azraf_ul_alam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:alam.azraf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=;Cyber+Security+Enthusiast;AI+%2F+ML+Researcher;Competitive+Programmer;Linux+%26+Systems+Explorer"/>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
-🎓 **B.Sc. in Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)** — 7th semester, CGPA 3.91
+### 👤 About Me
 
-💻 Focused on **offensive security / cybersecurity**, with a parallel research interest in **AI (persistent memory, neuromorphic architectures)**
+```yaml
+student:      B.Sc. Computer Science & Engineering, AIUB — 7th semester, CGPA 3.91
+track:        Offensive Security / Penetration Testing
+side_quest:   AI research — persistent memory & neuromorphic architectures
+roadmap:      TryHackMe → HackTheBox → OWASP → Bug Bounty → OSCP
+```
 
-🔬 Building toward a red-team/pentesting career: TryHackMe → HackTheBox → OWASP → bug bounty → OSCP, alongside CS50, Kali Linux, and hands-on tools like Aircrack-ng, Burp Suite, and nmap
-
----
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-azraful-alam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/azraf_ul_alam/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://tryhackme.com/p/CY4NAD3" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
-  </a>
-  <a href="https://www.codechef.com/users/cy4nad3">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com/profile/CY4NAD3">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/CY4NAD3/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.behance.net/azrafulalam">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="mailto:alam.azraf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-## 🛠 Skills & Tools
-
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-682876?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### Focus Areas
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Offensive+Security+%2F+Pentesting;AI+%26+Persistent+Memory+Research;Data+Structures+%26+Algorithms"/>
-</p>
+- 🔓 Currently sharpening fundamentals on **TryHackMe**, working toward HackTheBox and OSCP
+- 🧠 Exploring AI memory/continuity concepts on the side — how persistent context should actually work
+- 🛰️ Member of the **AIUB Astronomy and Space Science Club**
+- 🌍 Eyeing a cybersecurity-leaning Master's abroad (Germany / Australia) after the BSc
+- ⚡ Fun fact: my first-ever GitHub push had a "do not press" button that fake-hacked the user's screen. It stayed.
 
 ---
 
-## 📌 Featured Projects
-
-### 🖧 PeerSync
-**C# WinForms + SQL Server** peer-matching and project group app (OOP2 course), with swipe/match logic, group creation, and ratings across an 8-table relational schema.
-
-**PeerSync 2.0** — a multi-university platform successor for the Software Engineering course, built out with a full Agile backlog (39 stories, 8 epics), Figma UI/UX, and Trello sprint tracking.
-
-[![GitHub Repo](https://img.shields.io/badge/Repo-PeerSync-brightgreen?logo=github)](https://github.com/CY4NAD3)
-
-### 🏙️ OpenGL Animated World — Village → Town → City → Highway
-**Computer Graphics final term group project.** A 4-scene animated world sharing one continuous river, built in OpenGL/C++ with a shared feature set: keyboard-driven vehicle control, day/night cycles, toggleable animations, and a boat/ferry that sails through each scene's water.
-
-[![GitHub Repo](https://img.shields.io/badge/Repo-OpenGL_World-brightgreen?logo=github)](https://github.com/CY4NAD3)
-
-### ⚽ FootballKitStore
-**Java-based store management application** demonstrating clean, modular OOP architecture.
-
-[![GitHub Repo](https://img.shields.io/badge/Repo-FootballKitStore-brightgreen?logo=github)](https://github.com/CY4NAD3)
-
----
-
-## 📊 GitHub Stats
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=CY4NAD3&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,py,html,css,js,git,linux,vscode,idea,visualstudio&theme=dark" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=CY4NAD3&layout=compact&theme=tokyonight" />
-</p>
+
+<div align="center">
+
+| Category | Tools |
+|---|---|
+| **Languages** | Java · C++ · C# · Python · JavaScript |
+| **Security** | Kali Linux · Wireshark · Aircrack-ng · Burp Suite · nmap |
+| **Graphics / Systems** | OpenGL · SQL Server |
+| **IDEs** | IntelliJ IDEA · Visual Studio · VS Code · Apache NetBeans |
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+### 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CY4NAD3&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/CY4NAD3/PeerSync_SoftEnjr_Course">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CY4NAD3&repo=PeerSync_SoftEnjr_Course&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/CY4NAD3/Football-Kit-Management-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CY4NAD3&repo=Football-Kit-Management-App&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+**🖧 PeerSync** — a peer-matching platform connecting students, professors, and researchers for academic collaboration. Started as an AIUB-only swipe-to-match tool (C#/WinForms, 8-table relational schema) and grew into **PeerSync 2.0**, a multi-university platform with a full Agile backlog, Figma prototypes, and Scrum-based sprint delivery.
+
+**🏙️ OpenGL Animated World** — a Computer Graphics term project merging four scenes (Village → Town → City → Highway) into one seamless, navigable world in C++/OpenGL, with day/night cycles, keyboard-driven vehicle control, and a boat that sails the shared river across every scene.
+
+**⚽ Football Kit Store** — an early Java/Swing OOP project: a store interface for browsing kit, tracking live stock, and confirming orders with a persistent order-history log.
 
 ---
 
-> *"Security is not a product, but a process."*
-> — Bruce Schneier
+### 📊 Stats
 
-## 🐍 Contribution Snake
+<div align="center">
 
-![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=CY4NAD3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CY4NAD3&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CY4NAD3&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CY4NAD3&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
+
+<div align="center">
+
+*"Security is not a product, but a process." — Bruce Schneier*
+
+<img src="https://github.com/CY4NAD3/CY4NAD3/blob/output/github-snake-dark.svg" />
+
+<img src="https://komarev.com/ghpvc/?username=CY4NAD3&color=00F7FF&style=flat-square&label=Profile+Views" />
+
+</div>
