@@ -29,8 +29,6 @@ roadmap:      TryHackMe → HackTheBox → OWASP → Bug Bounty → OSCP
 
 - 🔓 Currently sharpening fundamentals on **TryHackMe**, working toward HackTheBox and OSCP
 - 🧠 Exploring AI memory/continuity concepts on the side — how persistent context should actually work
-- 🛰️ Member of the **AIUB Astronomy and Space Science Club**
-- 🌍 Eyeing a cybersecurity-leaning Master's abroad (Germany / Australia) after the BSc
 - ⚡ Fun fact: my first-ever GitHub push had a "do not press" button that fake-hacked the user's screen. It stayed.
 
 ---
