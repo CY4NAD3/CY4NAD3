@@ -4,18 +4,20 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=;Cyber+Security+Enthusiast;Competitive+Programmer;DSA+Learner;Linux+Explorer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=;Cyber+Security+Enthusiast;AI+%2F+ML+Researcher;Competitive+Programmer;Linux+%26+Systems+Explorer"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 **B.Sc. in Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)**  
+🎓 **B.Sc. in Computer Science & Engineering (CSE)** student at **American International University-Bangladesh (AIUB)** — 7th semester, CGPA 3.91
 
-💻 Passionate about: Software Engineering, DSA, Network Engineering, Cybersecurity  
-🔬 Exploring: Linux systems, simulated network labs, problem-solving on TryHackMe, CodeChef, Codeforces and LeetCode  
+💻 Focused on **offensive security / cybersecurity**, with a parallel research interest in **AI (persistent memory, neuromorphic architectures)**
+
+🔬 Building toward a red-team/pentesting career: TryHackMe → HackTheBox → OWASP → bug bounty → OSCP, alongside CS50, Kali Linux, and hands-on tools like Aircrack-ng, Burp Suite, and nmap
+
+📄 Co-authored a research paper on IoT-based air quality monitoring in Dhaka, accepted at the ICCE conference
 
 ---
 ## 📫 Connect With Me
@@ -39,6 +41,9 @@
   <a href="https://leetcode.com/u/CY4NAD3/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://www.behance.net/azrafulalam">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" />
+  </a>
   <a href="mailto:alam.azraf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -53,34 +58,45 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-682876?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <!-- Add more as needed -->
 </p>
 
 ### Technologies & Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### Focus Areas
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=450&lines=Network+Engineering;Cybersecurity;Data+Structures+%26+Algorithms"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Offensive+Security+%2F+Pentesting;AI+%26+Persistent+Memory+Research;Data+Structures+%26+Algorithms"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### ⚽ FootballKitStore
-**Java-based store management application** demonstrating:  
+### 🖧 PeerSync
+**C# WinForms + SQL Server** peer-matching and project group app (OOP2 course), with swipe/match logic, group creation, and ratings across an 8-table relational schema.
 
-- Object-Oriented Programming (OOP)  
-- Modular and clean architecture  
+**PeerSync 2.0** — a multi-university platform successor for the Software Engineering course, built out with a full Agile backlog (39 stories, 8 epics), Figma UI/UX, and Trello sprint tracking.
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-PeerSync-brightgreen?logo=github)](https://github.com/CY4NAD3)
+
+### 🏙️ OpenGL Animated World — Village → Town → City → Highway
+**Computer Graphics final term group project.** A 4-scene animated world sharing one continuous river, built in OpenGL/C++ with a shared feature set: keyboard-driven vehicle control, day/night cycles, toggleable animations, and a boat/ferry that sails through each scene's water.
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-OpenGL_World-brightgreen?logo=github)](https://github.com/CY4NAD3)
+
+### ⚽ FootballKitStore
+**Java-based store management application** demonstrating clean, modular OOP architecture.
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-FootballKitStore-brightgreen?logo=github)](https://github.com/CY4NAD3)
 
@@ -105,7 +121,7 @@
 
 ---
 
-> *"Security is not a product, but a process."*  
+> *"Security is not a product, but a process."*
 > — Bruce Schneier
 
 ## 🐍 Contribution Snake
@@ -113,4 +129,3 @@
 ![snake gif](https://github.com/CY4NAD3/CY4NAD3/blob/output/github-snake-dark.svg)
 
 ---
-
