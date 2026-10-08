@@ -57,12 +57,19 @@ roadmap:      TryHackMe → HackTheBox → OWASP → Bug Bounty → OSCP
 <div align="center">
 
 </div>
+## 🚀 Projects
 
-**🖧 PeerSync** — a peer-matching platform connecting students, professors, and researchers for academic collaboration. Started as an AIUB-only swipe-to-match tool (C#/WinForms, 8-table relational schema) and grew into **PeerSync 2.0**, a multi-university platform with a full Agile backlog, Figma prototypes, and Scrum-based sprint delivery.
+### 🧠 Distributed Local AI (Project Odysseus)
+A local distributed LLM inference setup pooling GPU VRAM across two consumer machines, so models larger than a single 8GB GPU can run entirely on local hardware.
 
-**🏙️ OpenGL Animated World** — a Computer Graphics term project merging four scenes (Village → Town → City → Highway) into one seamless, navigable world in C++/OpenGL, with day/night cycles, keyboard-driven vehicle control, and a boat that sails the shared river across every scene.
+### 🖧 PeerSync
+A peer-matching platform connecting students, professors, and researchers for academic collaboration. Started as an AIUB-only swipe-to-match tool (C#/WinForms, 8-table relational schema) and grew into **PeerSync 2.0**, a multi-university platform with a full Agile backlog, Figma prototypes, and Scrum-based sprint delivery.
 
-**⚽ Football Kit Store** — an early Java/Swing OOP project: a store interface for browsing kit, tracking live stock, and confirming orders with a persistent order-history log.
+### 🏙️ OpenGL Animated World
+A Computer Graphics term project merging four scenes (Village → Town → City → Highway) into one seamless, navigable world in C++/OpenGL, with day/night cycles, keyboard-driven vehicle control, and a boat that sails the shared river across every scene.
+
+### ⚽ Football Kit Store
+An early Java/Swing OOP project: a store interface for browsing kits, tracking live stock, and confirming orders with a persistent order-history log.
 
 ---
 ## 📊 GitHub Stats
